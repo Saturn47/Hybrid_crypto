@@ -2,10 +2,10 @@
 Summer Internship Project
 
 Requirements :
--> Latest version of python
--> a code editor for instance Visual Studio Code
+* Latest version of python
+* code editor for instance Visual Studio Code
 
 To run the code , follow these steps:
--> create a virtual environment
--> install flask and other modules of python
--> run app.py
+1. create a virtual environment
+2. install flask and other modules of python
+3. run app.py
